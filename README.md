@@ -3,9 +3,9 @@
 I am junior data engineer with a computer science background.I am skilled in Machine -Learning ,SQL ,Python ,Data analysis,EDA ,reporting and data visualization .Moreover ,I am a team player with professional communication and interpersonal skills along with a willingness  to learn.
 
 ### About Me 
-- 🎓 &nbsp;I have studied Bachelor's Degree in Computer Science in the University of nairobi
+- 🎓 &nbsp;I have a Bachelor's Degree in Computer Science from the University of nairobi
 - 🎓 &nbsp;I have gone through the three months of intensive training in Machine Learning Engineering and Data Engineering at 10Academy.
-- 🌱 &nbsp;I’m currently working on explorig Data Engineering tools
+- 🌱 &nbsp;I’m currently working on exploring Data Engineering tools
 - ⚡ &nbsp; I love to tend to plants and read books in my free time.
 
 
