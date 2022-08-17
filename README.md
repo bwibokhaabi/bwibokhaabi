@@ -8,7 +8,7 @@ I am junior data engineer with a computer science background.I am skilled in Mac
 * 🌱 &nbsp;I’m currently working on exploring Data Engineering tools
 * ⚡ &nbsp; I love to tend to plants and read books in my free time.
 * 🌍  I'm based in Nairobi,Kenya
-* 🖥️  See my portfolio at [10Academy](http://sites.google.com/view/daisy)
+* 🖥️  See my portfolio at [10Academy](https://sites.google.com/view/daisyokacha/home)
 
 
 ## Tech Stack
