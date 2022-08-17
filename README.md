@@ -13,6 +13,49 @@ I am junior data engineer with a computer science background.I am skilled in Mac
 bwibokhaabi/bwibokhaabi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+## Tech Stack
+#### Technologies
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B)&nbsp;
+
+#### Frameworks/Libraries
+![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=NumPy)&nbsp;
+![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=Pandas)&nbsp;
+![Spark](https://img.shields.io/badge/-Spark-05122A?style=flat&logo=Spark)&nbsp;
+![scikit-learn](https://img.shields.io/badge/-scikit%20learn-05122A?style=flat&logo=scikit%20learn)&nbsp;
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=TensorFlow)&nbsp;
+![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=Keras)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=Flask)&nbsp;
+![Streamlit](https://img.shields.io/badge/-Streamlit-05122A?style=flat&logo=Streamlit)&nbsp;
+
+
+#### Databases
+![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=SQLite)&nbsp;
+![Mysql](https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=Mysql)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL)&nbsp;
+
+#### Tools
+![MLflow](https://img.shields.io/badge/-MLflow-05122A?style=flat&logo=MLflow)&nbsp;
+![Airflow](https://img.shields.io/badge/-Airflow-05122A?style=flat&logo=Airflow)&nbsp;
+![DVC](https://img.shields.io/badge/-DVC-05122A?style=flat&logo=DVC)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)&nbsp;
+![github actions](https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat&logo=GitHub%20Actions)&nbsp;
+
+
+## GitHub Analytics
+<p align="center">
+  <a href="https://github.com/bwibokhaabi">
+    <img width="400px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bwibokhaabi&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=060B0D"/>
+    <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=bwibokhaabi&theme=black-ice&hide_border=true&stroke=0000&background=060B0D">
+  </a>
+  <a href="https://github.com/bwibokhaabi"><img alt="My Activity Graph"  width="804px" src="https://activity-graph.herokuapp.com/graph?username=bwibokhaabi&theme=react-dark&hide_border=true" /></a>
+</p>
+
+
+
+
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bwibokhaabi&show_icons=true&theme=radical)
