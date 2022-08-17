@@ -3,16 +3,14 @@
 I am junior data engineer with a computer science background.I am skilled in Machine -Learning ,SQL ,Python ,Data analysis,EDA ,reporting and data visualization .Moreover ,I am a team player with professional communication and interpersonal skills along with a willingness  to learn.
 
 ### About Me 
-- 🎓 &nbsp;I have a Bachelor's Degree in Computer Science from the University of nairobi
-- 🎓 &nbsp;I have gone through the three months of intensive training in Machine Learning Engineering and Data Engineering at 10Academy.
-- 🌱 &nbsp;I’m currently working on exploring Data Engineering tools
-- ⚡ &nbsp; I love to tend to plants and read books in my free time.
+* 🎓 &nbsp;I have a Bachelor's Degree in Computer Science from the University of nairobi
+* 🎓 &nbsp;I have gone through the three months of intensive training in Machine Learning Engineering and Data Engineering at 10Academy.
+* 🌱 &nbsp;I’m currently working on exploring Data Engineering tools
+* ⚡ &nbsp; I love to tend to plants and read books in my free time.
+* 🌍  I'm based in Nairobi,Kenya
+* 🖥️  See my portfolio at [10Academy](http://sites.google.com/view/daisy)
 
 
-<!---
-bwibokhaabi/bwibokhaabi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 ## Tech Stack
 #### Technologies
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -43,6 +41,13 @@ You can click the Preview link to take a look at your changes.
 ![github actions](https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat&logo=GitHub%20Actions)&nbsp;
 
 
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/bwibokhaabi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/daisy-khaabi-a58140180" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://medium.com/@daisyokacha9" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://twitter.com/okacha_daisy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+
 ## GitHub Analytics
 <p align="center">
   <a href="https://github.com/bwibokhaabi">
@@ -58,6 +63,4 @@ You can click the Preview link to take a look at your changes.
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bwibokhaabi&show_icons=true&theme=radical)
 
-<!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bwibokhaabi&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)--->
